@@ -2,7 +2,7 @@ const products = [
     {id: 1, name: 'Lenovo', price: 65000},
     {id: 2, name: 'Dell', price: 45000},
     {id: 3, name: 'HP', price: 40000},
-    {id: 4, name: 'Macbook', price: 125000}
+    {id: 4, name: 'Mac book', price: 125000}
 ]
 
 // map
